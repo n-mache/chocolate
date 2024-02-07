@@ -1,0 +1,1 @@
+document.body.innerHTML = '<div style="position:fixed;z-index:1;top:0;left:0;background:white;color:black;width:100%;height:100%;display:flex;"><div style="margin:auto;">チョコもらえると思った？<br><span style="font-size:2em;">ざんね〜ん！</span><br><span style="font-size:0.8em;color:#aaa;">あなたに送るチョコは...無いです...。</span></div></div>';
